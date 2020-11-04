@@ -1,3 +1,11 @@
+/**
+ * Latihan36
+ * Nama     : Muhammad Fauzan Fadhlulbarr
+ * Kelas    : PBO10K
+ * NIM      : 10119176
+ * Program  : Target Saldo Tabungan
+ */
+
 public class PBO10k10119176Latihan36 {
     public static void main(String[] args) {
         // TODO code application logic here
